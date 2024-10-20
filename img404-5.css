@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1,
+.sub_tittle {
+  font-weight: 900;
+}
+h1 {
+  font-size: 60px;
+  /* Oops! */
+
+  position: absolute;
+  width: 204px;
+  height: 87px;
+  left: 622px;
+  top: 55px;
+
+  font-family: "Avenir Next";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 87px;
+
+  color: #000000;
+}
+.sub_tittle {
+  /* You are lost */
+
+  position: absolute;
+  width: 136px;
+  height: 33px;
+  left: 653px;
+  top: 150px;
+
+  font-family: "Avenir Next";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.home {
+  /* Button */
+
+  /* Rectangle 2 */
+
+  position: absolute;
+  width: 141px;
+  height: 2px;
+  left: 656px;
+  top: 841px;
+
+  background: #000000;
+}
+img {
+  /* Group 1 */
+
+  position: absolute;
+  width: 707.67px;
+  height: 520.09px;
+  left: 370px;
+  top: 223px;
+}
